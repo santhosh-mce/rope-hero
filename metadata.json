@@ -1,0 +1,6 @@
+{
+  "name": "Rope Hero Swing",
+  "description": "A stylish, high-speed 2D side-scrolling cyberpunk swinging arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
